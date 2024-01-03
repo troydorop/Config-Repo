@@ -30,7 +30,7 @@ Here are some key areas of focus:
 ## How to Reach Me
 
 - 📧 Email: [troydoropoulos@gmail.com](mailto:troydoropoulos@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/troy-doropoulos)
+- 🌐 LinkedIn: [Troy Doropoulos LinkedIn](https://www.linkedin.com/in/troy-doropoulos)
 - 🐦 Twitter: [@troydorop](https://twitter.com/troydorop)
 
 Feel free to reach out if you have questions, want to collaborate on a project, or just want to connect!
